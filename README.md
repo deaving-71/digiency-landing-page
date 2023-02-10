@@ -1,5 +1,5 @@
 ## Live Demo
-[]()
+[https://digiency-landing-page.vercel.app](https://digiency-landing-page.vercel.app)
 
 This is a landing page coded with Next.js and tailwindcss, the design was from a figma [file](https://www.figma.com/community/file/970738774884202091).
 
