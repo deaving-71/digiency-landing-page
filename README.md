@@ -1,10 +1,6 @@
 ## Live Demo
 [https://digiency-landing-page.vercel.app](https://digiency-landing-page.vercel.app)
 
-This is a landing page coded with Next.js and tailwindcss, the design is from a free community figma [file](https://www.figma.com/community/file/970738774884202091).
+A landing page made with Next.js App Router and TailwindCSS to familiarize myself with next 13.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-
-
-
+Community figma design: [file](https://www.figma.com/community/file/970738774884202091).
